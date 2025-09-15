@@ -120,15 +120,15 @@ export default function Hero() {
             transition={{ delay: 0.8 }}
           >
             <div className="text-center">
-              <div className="text-xl sm:text-2xl font-bold text-teal-400">50+</div>
+              <div className="text-xl sm:text-2xl font-bold text-teal-400">15+</div>
               <div className="text-xs sm:text-sm text-gray-400">Projects</div>
             </div>
             <div className="text-center">
-              <div className="text-xl sm:text-2xl font-bold text-cyan-400">3+</div>
+              <div className="text-xl sm:text-2xl font-bold text-cyan-400">1.5+</div>
               <div className="text-xs sm:text-sm text-gray-400">Years Exp</div>
             </div>
             <div className="text-center">
-              <div className="text-xl sm:text-2xl font-bold text-teal-400">100%</div>
+              <div className="text-xl sm:text-2xl font-bold text-teal-400">99.9%</div>
               <div className="text-xs sm:text-sm text-gray-400">Satisfaction</div>
             </div>
           </motion.div>
@@ -150,7 +150,7 @@ export default function Hero() {
               <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
             </motion.a>
             
-            <motion.a
+            {/* <motion.a
               href="/resume.pdf"
               download
               className="px-6 py-2 sm:px-8 sm:py-3 border-2 border-gray-700 rounded-full text-gray-300 font-medium hover:bg-gray-800 transition-all duration-300 flex items-center group text-sm sm:text-base"
@@ -159,7 +159,7 @@ export default function Hero() {
             >
               <FaDownload className="mr-2" />
               Download CV
-            </motion.a>
+            </motion.a> */}
           </motion.div>
 
           {/* Social Icons */}

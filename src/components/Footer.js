@@ -21,7 +21,7 @@ export default function Footer() {
     },
     { 
       icon: <FaInstagram size={24} />, 
-      href: "https://twitter.com/kunalmahato", 
+      href: "https://www.instagram.com/code_with_horizon?igsh=MTUzYTdxajJtNDJ2Nw==", 
       label: "Instagram",
       color: "hover:text-cyan-400"
     },

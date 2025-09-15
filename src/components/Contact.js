@@ -214,7 +214,7 @@ export default function Contact() {
             
             <motion.div variants={itemVariants} className="w-full space-y-6">
               <a
-                href="mailto:kunal@email.com"
+                href="mailto:Horizonhub666@gmail.com"
                 className="group flex items-center space-x-4 p-4 rounded-xl bg-slate-800/50 border border-slate-700 hover:border-teal-500 transition-all duration-300 backdrop-blur-sm hover:bg-slate-800/70"
               >
                 <div className="relative">
@@ -228,7 +228,7 @@ export default function Contact() {
               </a>
               
               <a
-                href="https://linkedin.com/in/kunal"
+                href="https://www.linkedin.com/in/kunal-mahato-bb7551384?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center space-x-4 p-4 rounded-xl bg-slate-800/50 border border-slate-700 hover:border-teal-500 transition-all duration-300 backdrop-blur-sm hover:bg-slate-800/70"
@@ -244,7 +244,7 @@ export default function Contact() {
               </a>
               
               <a
-                href="https://github.com/kunal"
+                href="https://github.com/KunalMahato-Horizon"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center space-x-4 p-4 rounded-xl bg-slate-800/50 border border-slate-700 hover:border-teal-500 transition-all duration-300 backdrop-blur-sm hover:bg-slate-800/70"
