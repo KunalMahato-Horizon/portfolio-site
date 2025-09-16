@@ -181,7 +181,7 @@ export default function Navbar() {
 
             {/* Resume download button */}
             <a
-              href="/resume.pdf"
+              href="https://drive.google.com/file/d/10AWOS32iMBrFnYqK_FOaB_NxYRmZmQCZ/view?usp=sharing"
               download
               className="hidden md:flex items-center px-3 py-2 bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-lg text-sm font-medium hover:from-blue-600 hover:to-purple-600 transition-all duration-300 shadow-md hover:shadow-lg"
             >
