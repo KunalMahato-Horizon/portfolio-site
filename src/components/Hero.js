@@ -150,8 +150,8 @@ export default function Hero() {
               <span className="ml-2 group-hover:translate-x-1 transition-transform">→</span>
             </motion.a>
             
-            {/* <motion.a
-              href="/resume.pdf"
+            <motion.a
+              href="https://drive.google.com/file/d/10AWOS32iMBrFnYqK_FOaB_NxYRmZmQCZ/view?usp=sharing"
               download
               className="px-6 py-2 sm:px-8 sm:py-3 border-2 border-gray-700 rounded-full text-gray-300 font-medium hover:bg-gray-800 transition-all duration-300 flex items-center group text-sm sm:text-base"
               whileHover={{ scale: 1.05 }}
@@ -159,7 +159,7 @@ export default function Hero() {
             >
               <FaDownload className="mr-2" />
               Download CV
-            </motion.a> */}
+            </motion.a>
           </motion.div>
 
           {/* Social Icons */}
